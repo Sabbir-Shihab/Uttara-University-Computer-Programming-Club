@@ -1,1 +1,1 @@
-# Uttara-University-Computer-Programming-Club
+# UU-CPC
